@@ -4,6 +4,5 @@
 
 def roll
   # code goes here
-  dice_roll = rand(1..6)
-  puts dice_roll
+  puts rand(6)
 end
